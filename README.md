@@ -15,11 +15,12 @@ bash
 git clone <your-repo-url>
 
 2. Ensure Python 3.x is installed.
-3. Run the program:
+   
+4. Run the program:
 bash
 python appointment_system.py
 
-4. Follow on-screen instructions to add patients, schedule appointments, and send reminders.
+5. Follow on-screen instructions to add patients, schedule appointments, and send reminders.
 
 Future Enhancements
 * Support multiple doctors and appointment slots
