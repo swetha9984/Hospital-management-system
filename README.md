@@ -9,19 +9,6 @@ Features
 * Send reminders to doctor and patients
 * Display doctor and patient details
 
-How to Run
-1. Clone the repository:
-bash
-git clone <your-repo-url>
-
-2. Ensure Python 3.x is installed.
-   
-4. Run the program:
-bash
-python appointment_system.py
-
-5. Follow on-screen instructions to add patients, schedule appointments, and send reminders.
-
 Future Enhancements
 * Support multiple doctors and appointment slots
 * Store appointments in a database or file
